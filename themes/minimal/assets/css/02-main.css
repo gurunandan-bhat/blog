@@ -37,3 +37,8 @@ h6 a {
   font-style: normal;
   color: #3e3e3e;
 }
+
+blockquote p {
+  margin: 1rem 4rem;
+  font-style: italic;
+}
