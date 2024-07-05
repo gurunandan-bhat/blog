@@ -1,7 +1,8 @@
 +++
-title = 'Roshan: The Master of Melodic Shringar'
+title = 'Roshan'
 date = 2024-07-04T22:33:53+05:30
 draft = false
+subtitle = 'The Master of Melodic Shringar'
 +++
 
 There is an apocryphal story about Roshan requesting S. D. Burman's permission to use the tune of "Thandi hawaein, lehera ke aayen" from Naujawan for a song Roshan was composing for Mamta. It seems Burman agreed and Roshan used it to create that lilting "Rahein Na Rahein Hum. Meheka karenge..."

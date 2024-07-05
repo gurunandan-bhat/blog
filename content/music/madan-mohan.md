@@ -1,7 +1,8 @@
 +++
-title = "Madan Mohan: Saturn's Favourite Composer"
+title = "Madan Mohan"
 date = 2024-07-04T22:26:31+05:30
 draft = false
+subtitle = "Saturn's Favourite Composer"
 +++
 
 Whenever I have listened to many of the incredibly beautiful melodies of Lata singing for Madan Mohan, my heart has always gone out to the unfortunate character who sang it on screen. Nothing good was ever going to come her way. Even the happiest of melodies seemed only a brief interlude in this tragedy called life. The most passionate of songs were only an invitation to a doomed love. Each note from these beautiful compositions seemed to ride on a background of melancholy — sometimes only a hint like in _Main To Tumse Nain Milake Haar Gayee Sajana_ from Manmauji, sometimes so completely suffused with it as in _Rasm-e-Ulfat ko Nibhayen to Nibhayen Kaise_ from Dil Ki Rahein.

@@ -1,7 +1,16 @@
 {{ define "main" }}
   {{ .Content }}
   {{ range site.RegularPages }}
-    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-    {{ .Summary }}
+    <div class="pb-3">
+      <div class="pb-4">
+        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+        {{ with .Param "subtitle" }}
+          <h4>{{ . }}</h4>
+        {{ end }}
+      </div>
+      <div class="pb-5">
+        {{ .Summary | markdownify }}
+      </div>
+    </div>
   {{ end }}
 {{ end }}
